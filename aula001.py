@@ -1,3 +1,3 @@
 print('olá, mundo!!')
 print('oi e olá')
-print('eu estou bem e você?')
+print('Ola, eu estou bem e você?'.replace('estou', 'estava'))
