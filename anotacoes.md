@@ -33,3 +33,10 @@ print('Hello World'.**upper**) -> o upper irá imprimir todas as letras em maiú
 **/= divide nele mesmo**  
 **%= divisão inteira (resto)**  
   
+## Operadores Lógicos - Aula005  
+  
+**if elif else**  
+  
+se, senão se e senão.  
+
+
