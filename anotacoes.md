@@ -38,5 +38,24 @@ print('Hello World'.**upper**) -> o upper irá imprimir todas as letras em maiú
 **if elif else**  
   
 se, senão se e senão.  
+  
+## Funções básicas da matemática - Aula 15  
+  
+**round - arredonda para baixo**  
+**pow - potência**  
+**max - maior valor de uma lista de números**  
+**min - menor valor de uma lista de números**  
+**sum - soma de valores de uma lista de números**  
+
+
+## Módulo MATH  
+  
+**Ceil - arredona para cima (teto)**  
+**floor - arredonda para baixo (piso)**  
+**pow - potencia**  
+**sqrt - raiz quadrada**  
+  
+https://docs.python.org/3/library/math.html  
+
 
 
